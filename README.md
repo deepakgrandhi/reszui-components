@@ -1,4 +1,9 @@
-## npm start
+## Components for Reszui
+
+**Running the project:**
+npm i
+npm start
+
 1. Custom Switch
    **Usage:**
    <CustomSwitch 
